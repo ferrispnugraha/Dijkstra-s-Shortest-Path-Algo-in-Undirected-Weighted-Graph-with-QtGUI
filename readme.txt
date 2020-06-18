@@ -1,7 +1,3 @@
-Dijkstra Shortest Path Algorithm (PA4)
-Ferris Prima NUGRAHA
-SID: 20543826
-
 How to use:
 1. Generate Vertex:
 Press Add Vertex and then click white label for position of the new vertex.
